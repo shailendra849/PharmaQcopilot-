@@ -1,4 +1,4 @@
-# AIVOA — AI-Powered Customer Complaint Management System
+# PharmaQcopilot — AI-Powered Customer Complaint Management System
 
 AIVOA is an AI-assisted complaint intake and triage system built for pharmaceutical API/FDF (Active Pharmaceutical Ingredient / Finished Dosage Form) quality assurance teams. A QA reviewer pastes in raw complaint text or uploads a document (email, PDF, scanned report), and an AI Copilot extracts the structured complaint fields, performs an initial risk assessment (severity, priority, suggested next action), and lets the reviewer correct/confirm details in a chat-style panel before committing the record to a permanent QMS ledger.
 
